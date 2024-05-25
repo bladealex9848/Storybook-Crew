@@ -1,0 +1,17 @@
+# Archivos de configuración
+config.json
+
+# Archivos de salida generados automáticamente
+output.pdf
+story.md
+
+# Archivos de cache
+__pycache__/
+
+# Archivos de depuración
+*.log
+
+# Archivos de imágenes generados automáticamente
+*.jpg
+*.png
+*.pdf
